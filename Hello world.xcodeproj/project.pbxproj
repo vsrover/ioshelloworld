@@ -96,7 +96,6 @@
 		09124F862C83B6E100AE524B = {
 			isa = PBXGroup;
 			children = (
-				09CE52AE2C8B44FB000F5654 /* BadgeBackground.swift */,
 				09124F912C83B6E100AE524B /* Hello world */,
 				09124FA22C83B6E300AE524B /* Hello worldTests */,
 				09124FAC2C83B6E300AE524B /* Hello worldUITests */,
@@ -155,6 +154,7 @@
 		09124FC62C888BEC00AE524B /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				09CE52AE2C8B44FB000F5654 /* BadgeBackground.swift */,
 				09124F942C83B6E100AE524B /* ContentView.swift */,
 				09CE52A02C8A4117000F5654 /* Landmarks */,
 				09CE529A2C8A3FD6000F5654 /* Helper */,
